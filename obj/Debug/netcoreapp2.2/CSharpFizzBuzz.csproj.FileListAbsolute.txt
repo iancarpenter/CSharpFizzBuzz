@@ -1,0 +1,11 @@
+C:\Users\Ian\source\repos\CSharpFizzBuzz\bin\Debug\netcoreapp2.2\CSharpFizzBuzz.deps.json
+C:\Users\Ian\source\repos\CSharpFizzBuzz\bin\Debug\netcoreapp2.2\CSharpFizzBuzz.runtimeconfig.json
+C:\Users\Ian\source\repos\CSharpFizzBuzz\bin\Debug\netcoreapp2.2\CSharpFizzBuzz.runtimeconfig.dev.json
+C:\Users\Ian\source\repos\CSharpFizzBuzz\bin\Debug\netcoreapp2.2\CSharpFizzBuzz.dll
+C:\Users\Ian\source\repos\CSharpFizzBuzz\bin\Debug\netcoreapp2.2\CSharpFizzBuzz.pdb
+C:\Users\Ian\source\repos\CSharpFizzBuzz\obj\Debug\netcoreapp2.2\CSharpFizzBuzz.csprojAssemblyReference.cache
+C:\Users\Ian\source\repos\CSharpFizzBuzz\obj\Debug\netcoreapp2.2\CSharpFizzBuzz.csproj.CoreCompileInputs.cache
+C:\Users\Ian\source\repos\CSharpFizzBuzz\obj\Debug\netcoreapp2.2\CSharpFizzBuzz.AssemblyInfoInputs.cache
+C:\Users\Ian\source\repos\CSharpFizzBuzz\obj\Debug\netcoreapp2.2\CSharpFizzBuzz.AssemblyInfo.cs
+C:\Users\Ian\source\repos\CSharpFizzBuzz\obj\Debug\netcoreapp2.2\CSharpFizzBuzz.dll
+C:\Users\Ian\source\repos\CSharpFizzBuzz\obj\Debug\netcoreapp2.2\CSharpFizzBuzz.pdb
